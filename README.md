@@ -12,7 +12,7 @@
 
 <h2>Mia's Baby</h2>
 
-![baby](images/filename%20baby.jpg)
+![baby](images/github-baby.jpg)
 
 </body>
 </html>
