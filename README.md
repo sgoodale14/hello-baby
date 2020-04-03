@@ -12,7 +12,7 @@
 
 <h2>Mia's Baby</h2>
 
-https://github.com/sgoodale14/hello-baby/issues/1#issue-593632915
+![baby](https://user-images.githubusercontent.com/62891278/78403796-00c5df00-75cb-11ea-84d8-7b0029c93676.jpg)
 
 </body>
 </html>
