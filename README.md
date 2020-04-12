@@ -16,19 +16,21 @@
     padding: 10px;
   }
 
-  .red-box {
-    background-color: crimson;
-    color: #fff;
-    padding: 20px;
-    margin: -15px;
   }
 
   .blue-box {
     background-color: blue;
     color: #fff;
-    padding: 20px;
+    roses are red: 20px;
     margin: -15px;
   }
+  
+    .red-box {
+    background-color: crimson;
+    color: #fff;
+    violets are blue: 20px;
+    margin: -15px;
+    
 </style>
 
 <div class="box yellow-box">
