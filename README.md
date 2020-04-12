@@ -1,38 +1,3 @@
-<style>
-  .injected-text {
-    margin-bottom: -25px;
-    text-align: center;
-  }
-
-  .box {
-    border-style: solid;
-    border-color: black;
-    border-width: 5px;
-    text-align: center;
-  }
-
-  .yellow-box {
-    background-color: yellow;
-    padding: 10px;
-  }
-
-  }
-
-  .blue-box {
-    background-color: blue;
-    color: #fff;
-    roses are red: 20px;
-    margin: -15px;
-  }
-  
-    .red-box {
-    background-color: crimson;
-    color: #fff;
-    violets are blue: 20px;
-    margin: -15px;
-    
-</style>
-
 <div class="box yellow-box">
   <h5 class="box red-box">padding</h5>
   <h5 class="box blue-box">padding</h5>
