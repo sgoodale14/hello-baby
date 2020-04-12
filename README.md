@@ -18,10 +18,9 @@
     padding: 20px;
     margin: -15px;
   }
-</style><div">
+</style>
   <h5 class="box red-box">roses are red</h5>
-    <h5 class="box blue-box">violets are blue</h5>
-</div>
+  <h5 class="box blue-box">violets are blue</h5>
 
 
 <p style="font-size:50px;">Baby is big</p>
