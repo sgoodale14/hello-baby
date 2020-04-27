@@ -8,14 +8,14 @@
   .red-box {
     background-color: crimson;
     color: #fff;
-    padding: 20px;
+    padding: 30px;
     margin: 15px;
   }
 
   .blue-box {
     background-color: blue;
     color: #fff;
-    padding: 20px;
+    padding: 30px;
     margin: 15px;
   }
 </style>
@@ -25,6 +25,3 @@
 
 <p style="font-size:50px;">Baby is big</p>
 <p>and coming for you</p>
-
-
-<img src="https://user-images.githubusercontent.com/62891278/78406144-0114a900-75d0-11ea-8a6f-74abfc1dad6f.jpg">
